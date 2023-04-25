@@ -25,7 +25,7 @@
 - 🐱 Tengo una gatita que se llama Nobara.
 
 
-<div align="left">
+<div align="center">
 <h3> ⛏️ Lenguajes y Herramientas: </h3>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40" />&nbsp;
