@@ -43,3 +43,7 @@
 
 ### Mis estadísticas:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FranciscaBC&theme=onedark)](https://git.io/streak-stats)
+
+![GitHub stats](http://github-readme-stats.vercel.app/api?username=FranciscaBC&show_icons=true&theme=radical)
+  
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=FranciscaBC&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
